@@ -1,0 +1,2 @@
+setuptools
+bng_latlon

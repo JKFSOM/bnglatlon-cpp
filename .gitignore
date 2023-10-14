@@ -1,0 +1,6 @@
+# virtualenv
+venv
+
+# C extensions
+*.so
+*.o
